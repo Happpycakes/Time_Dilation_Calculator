@@ -1,0 +1,11 @@
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\bin\Debug\netcoreapp2.1\Time Dialation Calculator.deps.json
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\bin\Debug\netcoreapp2.1\Time Dialation Calculator.runtimeconfig.json
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\bin\Debug\netcoreapp2.1\Time Dialation Calculator.runtimeconfig.dev.json
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\bin\Debug\netcoreapp2.1\Time Dialation Calculator.dll
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\bin\Debug\netcoreapp2.1\Time Dialation Calculator.pdb
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.csprojAssemblyReference.cache
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.AssemblyInfoInputs.cache
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.AssemblyInfo.cs
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.dll
+C:\Users\cdlar\source\repos\Time Dialation Calculator\Time Dialation Calculator\obj\Debug\netcoreapp2.1\Time Dialation Calculator.pdb
